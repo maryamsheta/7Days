@@ -2,7 +2,7 @@
 An Assembly x86 Project..
 
 # The idea, demo and the code:
-Note: Sorry for the bad quality, This was the best I could do to upload to video! 
+Note: Sorry for the low quality, This was the best I could do to upload to video! 
 
-https://user-images.githubusercontent.com/119558533/205602320-1efcb317-b7f2-45c5-8b89-982edce39da8.mp4
+https://user-images.githubusercontent.com/119558533/205602858-3debdba1-dfbb-49d7-b069-ef5c73e133a5.mp4
 
